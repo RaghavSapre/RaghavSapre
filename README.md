@@ -23,12 +23,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavSapre&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect!
-<a href="https://www.linkedin.com/in/raghav-sapre-804577254/" target="_blank" style="vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a> &nbsp;
-<a href="https://x.com/raghav_sapre" target="_blank" style="vertical-align: middle;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
-</a> &nbsp;
-<a href="mailto:raghav.s.sapre@gmail.com" style="vertical-align: middle;">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" height="40"/><br>
-</a>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>](https://www.linkedin.com/in/raghav-sapre-804577254/) &nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>](https://x.com/raghav_sapre) &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40" height="40"/>](mailto:raghav.s.sapre@gmail.com)
+### Credits for design: [Vardan Verma](https://github.com/vardan-developer)
